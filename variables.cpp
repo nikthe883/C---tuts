@@ -33,6 +33,9 @@ int main(){
     // string 
     std::string name = "Peter";
     std:: cout << name << "\n";
+    std:: string food = "Banana";
+
+    std:: cout << "Hello " << name << " Do you like " << food << "\n"; 
 
 
     return 0;
